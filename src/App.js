@@ -1,9 +1,7 @@
-const App = () => {
-  return (
-    <>
-      Hello from App Component
-    </>
-  );
-}
+const App = () => (
+  <>
+    Hello from App Component
+  </>
+);
 
 export default App;
